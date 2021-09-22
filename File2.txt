@@ -1,6 +1,5 @@
 The first 987
 
-local file
 the second qwerty
 
 commit_test
